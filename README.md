@@ -12,3 +12,16 @@ Crie uma landing page de uma agência
 Projeto no em todos os formatos no Figma
 
 - [figma](https://www.figma.com/design/6hGqKA5scrZJScb9KW3Hj2/Huckleberry?node-id=0-1&p=f)
+
+### Espaços
+
+Todos os espaços são mutiplos de 8px:
+
+- 8px
+- 16px
+- 24px
+- 32px
+- 48px
+- 64px
+- 96px
+- 128px
